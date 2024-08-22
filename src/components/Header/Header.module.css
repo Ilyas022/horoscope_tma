@@ -1,0 +1,25 @@
+.container {
+	width: 100%;
+	max-width: 200px;
+	margin: 0 auto;
+}
+
+.btn {
+	font-size: inherit;
+	color: var(--tg-theme-button-color);
+	text-align: center;
+}
+
+.title {
+	font-size: 26px;
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+.langBar {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 20px;
+	font-size: 20px;
+}
